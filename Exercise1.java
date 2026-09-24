@@ -1,6 +1,6 @@
 public class Exercise1{
     public static void main(String[] args){
-       String name="mohamed Anas";
+       String name="Mohamed Anas";
        int age=20;
        float height=5.6f;
        double  weight=70.0;
